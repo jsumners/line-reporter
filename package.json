@@ -1,6 +1,6 @@
 {
   "name": "@jsumners/line-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test reporter for `node:test` that reports test file statuses.",
   "exports": {
     ".": "./index.mjs"
