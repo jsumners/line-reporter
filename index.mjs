@@ -34,7 +34,7 @@ async function * reporter (source) {
 
     switch (event.type) {
       case 'test:stderr': {
-        console.log('err', event)
+        // console.log('err', event)
         break
       }
 
